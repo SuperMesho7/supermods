@@ -1,0 +1,17 @@
+.dropdown-menu {
+    background-color: white;
+}
+.dropdown-menu a {
+    color: #000;
+}
+.dropdown-menu a:hover {
+    color: #000;
+}
+.dropdown-item:hover {
+    background-color: #EEEDEB;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
